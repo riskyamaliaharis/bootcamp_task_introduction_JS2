@@ -60,6 +60,6 @@ console.log(cetak)
 console.log('\n')
 
 // 10. TRIM = Membuang bagian spasi atau string kosong di awal dan di akhir
-let naim = " satu dua "
-console.log(naim)
-console.log(naim.trim())
+let nm = " satu dua "
+console.log(nm)
+console.log(nm.trim())
