@@ -1,4 +1,4 @@
-const seleksiNilai = (nilaiAwal, nilaiAkhir, dataArray) => {
+  const seleksiNilai = (nilaiAwal, nilaiAkhir, dataArray) => {
     let tampil =[]
     if (nilaiAwal<nilaiAkhir){
         if (dataArray.length>5){
