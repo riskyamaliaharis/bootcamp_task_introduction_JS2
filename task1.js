@@ -7,7 +7,7 @@ alphabet.forEach(abjad =>{
 })
 console.log('\n')
 
-// 2. CONCAT = Menggabungkan 2 Array Menjadi 1 Array
+// 2. CONCAT = Menggabungkan 2 Array/string atau lebih menjadi 1
 const country = ["Japan", "Germany", "Indonesia"]
 const number = [1, 3, 5, 7]
 const newArray = number.concat(country)
